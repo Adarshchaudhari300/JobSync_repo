@@ -66,6 +66,12 @@ The containerized application can be deployed to any platform that supports Dock
 #### LAnding Page 
 <img width="1600" height="900" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/d2784ef3-409a-478a-b341-b300ec75ce29" />
 
+#### CV upload SEction
+<img width="3730" height="2618" alt="localhost_5173_upload (1)" src="https://github.com/user-attachments/assets/aa452fdf-7423-4115-81fc-aa4af4d6286c" />
+
+####Analyse section
+<img width="3730" height="2908" alt="localhost_5173_upload (2)" src="https://github.com/user-attachments/assets/45dfa3f9-6ad0-425e-82c0-090addd44053" />
+
 ### DIY Deployment
 
 If you're familiar with deploying Node applications, the built-in app server is production-ready.
