@@ -20,8 +20,10 @@ const ResumeCard = ({
             const blob = await fs.read(imagePath);
             if(!blob) return;
 
-            
+
             let url = URL.createObjectURL(blob);
+
+            
             setResumeUrl(url);
         }
 
