@@ -63,6 +63,8 @@ The containerized application can be deployed to any platform that supports Dock
 - Digital Ocean App Platform
 - Fly.io
 - Railway
+#### LAnding Page 
+<img width="1600" height="900" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/d2784ef3-409a-478a-b341-b300ec75ce29" />
 
 ### DIY Deployment
 
